@@ -1,4 +1,6 @@
 # Casino
-I am editing this and I have to add a picture.
-We can do this tomorrow. This is an edit.
+
+<img src="https://image.shutterstock.com/image-illustration/casino-poker-chips-on-green-260nw-658269847.jpg" alt ="casino">
+
+
 
